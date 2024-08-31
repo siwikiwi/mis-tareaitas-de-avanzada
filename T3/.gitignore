@@ -1,0 +1,9 @@
+data/
+tests_publicos/
+todos_tests.py
+test_solution.py
+utilidades.py 
+borrador.py
+log.md 
+test_elementos_prohibidos.pyc
+Enunciado.pdf
