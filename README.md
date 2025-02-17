@@ -1,5 +1,8 @@
 # mis-tareaitas-de-avanzada
-las tareas que recuperé :3
+
+Vania Ulloa Landeros 
+
+las tareas que recuperé 
 
 Aquí dejo mis tareas de Programación avanzada, por si a alguien les puede servir de guía.
 
