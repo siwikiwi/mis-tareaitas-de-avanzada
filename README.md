@@ -1,6 +1,6 @@
 # mis-tareaitas-de-avanzada
 
-Vania Ulloa Landeros 
+
 
 las tareas que recuperé 
 
